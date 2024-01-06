@@ -9,3 +9,17 @@
 09_*
 10-11_*
 12-13_*
+
+# Ignore future data
+data/dass_personality/*
+data/degrees_salary/*
+data/drug_use/*
+data/handwriting_alzheimers/*
+data/ncds/*
+data/schizotypy/*
+data/student_math/*
+
+
+# Ignore future scripts
+materials/source/glm_gradient_descent.R
+materials/source/ridge_gradient_descent.R
