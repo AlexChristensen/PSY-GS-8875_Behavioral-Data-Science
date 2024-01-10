@@ -22,4 +22,3 @@ data/student_math/*
 
 # Ignore future scripts
 materials/source/glm_gradient_descent.R
-materials/source/ridge_gradient_descent.R
