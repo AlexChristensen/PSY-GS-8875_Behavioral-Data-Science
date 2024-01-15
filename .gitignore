@@ -14,7 +14,7 @@
 data/dass_personality/*
 data/degrees_salary/*
 data/kaggle/*
-data/ncds/*
+# data/ncds will not be released on GitHub due to sharing restrictions
 data/schizotypy/*
 # data/student_math/*
 
