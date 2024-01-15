@@ -1,6 +1,6 @@
 # Ignore future weeks
 # 01_*
-02_*
+# 02_*
 03_*
 04_*
 05_*
@@ -13,12 +13,12 @@
 # Ignore future data
 data/dass_personality/*
 data/degrees_salary/*
-data/drug_use/*
-data/handwriting_alzheimers/*
+data/kaggle/*
 data/ncds/*
 data/schizotypy/*
-data/student_math/*
+# data/student_math/*
 
 
 # Ignore future scripts
-materials/source/glm_gradient_descent.R
+# materials/source/glm_gradient_descent.R
+materials/source/single_layer_net.R
