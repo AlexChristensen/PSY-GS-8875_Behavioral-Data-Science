@@ -31,7 +31,7 @@ remotes::install_github("AlexChristensen/toolchainR")
 remotes::install_github("AlexChristensen/latentFactoR")
 ```
 
-### Course Outline [link](https://docs.google.com/spreadsheets/d/1h7zq3rfj3JwyiW6lUcTt4Uid7i0BFrt1/edit?usp=sharing&ouid=113368369928842739072&rtpof=true&sd=true)
+### [Course Outline](https://docs.google.com/spreadsheets/d/1h7zq3rfj3JwyiW6lUcTt4Uid7i0BFrt1/edit?usp=sharing&ouid=113368369928842739072&rtpof=true&sd=true)
 
 Week 1: Introduction and Retrieval-augmented Generation
 
