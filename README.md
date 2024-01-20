@@ -56,3 +56,21 @@ Week 10-11: Dynamic Psychometric Networks
 Week 12-13: Natural Language Processing with Transformers
 
 Week 14: Final Project
+
+### Data
+
+#### Social Sciences
+
+[Inter-university Consortium for Political and Social Research](https://www.openicpsr.org/openicpsr/)
+
+[Open Psychometrics](https://openpsychometrics.org/_rawdata/)
+
+[Journal of Open Psychology Data](https://openpsychologydata.metajnl.com/)
+
+[Open Science Framework](https://osf.io/search/)
+
+#### General
+
+[Kaggle](https://www.kaggle.com/datasets)
+
+[UCI Machine Learning Repository](https://archive-beta.ics.uci.edu/ml/datasets)
