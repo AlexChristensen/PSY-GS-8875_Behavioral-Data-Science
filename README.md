@@ -29,6 +29,7 @@ install.packages(
 # GitHub packages
 remotes::install_github("AlexChristensen/toolchainR")
 remotes::install_github("AlexChristensen/latentFactoR")
+remotes::install_github("atomashevic/transforEmotion")
 ```
 
 ### [Course Outline](https://docs.google.com/spreadsheets/d/1h7zq3rfj3JwyiW6lUcTt4Uid7i0BFrt1/edit?usp=sharing&ouid=113368369928842739072&rtpof=true&sd=true)
