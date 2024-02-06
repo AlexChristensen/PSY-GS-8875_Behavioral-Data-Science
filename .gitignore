@@ -27,5 +27,5 @@ data/schizotypy/*
 # keys/*
 # keys/syllabus_ai_KEY.pdf
 # keys/gradient-descent_KEY.pdf
-keys/generalizability_KEY.pdf
+keys/generalizability_KEY.html
 keys/regularization_KEY.pdf
