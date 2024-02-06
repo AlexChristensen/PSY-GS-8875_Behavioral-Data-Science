@@ -3,7 +3,7 @@
 # 02_*
 # 03_*
 # 04_*
-05_*
+# 05_*
 06_*
 07_*
 09_*
@@ -21,4 +21,4 @@ data/schizotypy/*
 
 # Ignore future scripts
 # materials/source/glm_gradient_descent.R
-materials/source/single_layer_net.R
+# materials/source/single_layer_net.R
