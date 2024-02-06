@@ -22,3 +22,10 @@ data/schizotypy/*
 # Ignore future scripts
 # materials/source/glm_gradient_descent.R
 # materials/source/single_layer_net.R
+
+# Ignore keys
+# keys/*
+# keys/syllabus_ai_KEY.pdf
+# keys/gradient-descent_KEY.pdf
+keys/generalizability_KEY.pdf
+keys/regularization_KEY.pdf
