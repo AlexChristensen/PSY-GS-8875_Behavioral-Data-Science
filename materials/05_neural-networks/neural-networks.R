@@ -184,7 +184,7 @@ log_test_plot <- ggplot(data = df_test, aes(x = X1, y = X2, color = Y)) +
 log_plot <- ggarrange(
   log_train_plot, log_test_plot,
   nrow = 1
-)
+); log_plot
 
 #%%%%%%%%%%%%%%%%%%%%%
 ## Neural network ----
@@ -301,7 +301,6 @@ net_plot <- ggarrange(
   net_train_plot, net_test_plot,
   nrow = 1
 ); net_plot
-
 
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 ## Perform relative importance ----
