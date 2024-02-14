@@ -372,6 +372,18 @@ mean(store_accuracy_delta)
 # Let's set up an environment
 library(reticulate)
 
+# Set up conda environment
+conda_create(envname = "neural-nets")
+# Only need to do once
+
+# Install {tensorflow}
+conda_install(
+  envname = "neural-nets",
+  packages = "tensorflow",
+  pip = TRUE
+)
+# Only need to do once
+
 # Use conda environment
 use_condaenv(condaenv = "neural-nets")
 
@@ -428,7 +440,7 @@ keras_training <- model %>%
     epochs = 1000, # number of iterations
     batch_size = 8, # mini-batch
     validation_split = 0.20, # 80/20
-    verbose = FALSE # whether to print progress
+    verbose = TRUE # whether to print progress
   )
 
 # See final results
