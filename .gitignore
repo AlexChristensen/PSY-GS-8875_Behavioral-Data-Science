@@ -4,7 +4,7 @@
 # 03_*
 # 04_*
 # 05_*
-06_*
+# 06_*
 07_*
 09_*
 10-11_*
@@ -15,7 +15,7 @@ data/bipolar_depression/*
 data/dass_personality/*
 # data/kaggle/*
 # data/ncds will not be released on GitHub due to sharing restrictions
-data/schizotypy/*
+# data/schizotypy/*
 # data/student_math/*
 data/university_salary/*
 
