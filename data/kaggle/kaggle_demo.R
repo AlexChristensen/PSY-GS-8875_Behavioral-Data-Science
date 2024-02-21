@@ -11,11 +11,19 @@ colnames(kaggle_train)
 # You can remove "ID" from dataset
 kaggle_train <- kaggle_train[,-1]
 
+#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+## Model fitting section | start ----
+#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 # Logistic regression (baseline for 1 point)
 kaggle_model <- glm(
   TARGET ~ ., data = kaggle_train,
   family = "binomial"
 )
+
+#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+## Model fitting section | end ----
+#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 # Check out summary of the model
 summary(kaggle_model)
@@ -56,8 +64,7 @@ kaggle_result <- data.frame(
 # Save your .csv
 write.csv(
   kaggle_result,
-  file = "YOUR_NAME_MODEL.csv",
-  # e.g., "Alex_Christensen_logistic.csv"
+  file = "Alex_Christensen_logistic.csv",
   row.names = FALSE
 )
 

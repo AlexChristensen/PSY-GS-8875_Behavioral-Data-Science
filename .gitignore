@@ -11,6 +11,7 @@
 12-13_*
 
 # Ignore future data
+data/bipolar_depression/*
 data/dass_personality/*
 # data/kaggle/*
 # data/ncds will not be released on GitHub due to sharing restrictions
