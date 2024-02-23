@@ -25,7 +25,8 @@ data/university_salary/*
 
 # Ignore keys
 # keys/*
-# keys/syllabus_ai_KEY.pdf
-# keys/gradient-descent_KEY.pdf
-# keys/generalizability_KEY.html
-keys/regularization_KEY.pdf
+# keys/AHA-01_syllabus_ai_KEY.pdf
+# keys/AHA-02_gradient-descent_KEY.pdf
+# keys/AHA-03_generalizability_KEY.html
+# keys/AHA-04_regularization_KEY.pdf
+keys/AHA-06_*
