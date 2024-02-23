@@ -7,6 +7,7 @@ library(caret); library(ggplot2)
 library(ranger); library(ggpubr)
 library(rpart); library(rpart.plot)
 
+
 # Load data
 schizotypy <- read.csv("../../data/schizotypy/share_430n_interview.csv")
 
@@ -296,4 +297,14 @@ ggdotchart(
 
 # Look at first tree
 treeInfo(ranger_model, tree = 1)
+
+# For extra interpretability
+library(randomForestExplainer)
+
+# Explain forest
+explain_forest(
+  ranger_model, data = schizotypy,
+  path = paste0(getwd(), "/schizotypy_negative")
+)
+
 
