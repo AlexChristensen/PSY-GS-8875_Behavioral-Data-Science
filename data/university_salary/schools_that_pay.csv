@@ -1,0 +1,321 @@
+school_name,region,starting_median,mid_career,mid_career_10,mid_career_25,mid_career_75,mid_career_90
+Stanford University ,California ,70400,129000,68400 ,93100 ,184000 ,257000 
+California Institute of Technology (CIT) ,California ,75500 ,123000 , ,104000 ,161000 , 
+Harvey Mudd College ,California ,71800 ,122000 , ,96000 ,180000 , 
+"University of California, Berkeley ",California ,59900 ,112000 ,59500 ,81000 ,149000 ,201000 
+Occidental College ,California ,51900 ,105000 , ,54800 ,157000 , 
+Cal Poly San Luis Obispo ,California ,57200 ,101000 ,55000 ,74700 ,133000 ,178000 
+University of California at Los Angeles (UCLA) ,California ,52600 ,101000 ,51300 ,72500 ,139000 ,193000 
+"University of California, San Diego (UCSD) ",California ,51100 ,101000 ,51700 ,75400 ,131000 ,177000 
+Pomona College ,California ,48600 ,101000 , ,63300 ,161000 , 
+University of Southern California (USC) ,California ,54800 ,99600 ,49700 ,73800 ,140000 ,201000 
+"University of California, Davis ",California ,52300 ,99600 ,52000 ,71600 ,135000 ,202000 
+"University of California, Irvine (UCI) ",California ,48300 ,96700 ,47800 ,66000 ,123000 ,172000 
+San Jose State University (SJSU) ,California ,53500 ,95600 ,50700 ,70500 ,122000 ,156000 
+"University of California, Santa Barbara (UCSB) ",California ,50500 ,95000 ,51300 ,71200 ,129000 ,173000 
+"California State University (CSU), Chico ",California ,47400 ,88100 ,46800 ,62800 ,122000 ,154000 
+"California State University, Fullerton (CSUF) ",California ,45700 ,87000 ,45400 ,62500 ,119000 ,158000 
+San Francisco State University (SFSU) ,California ,47300 ,86400 ,45100 ,62700 ,114000 ,150000 
+San Diego State University (SDSU) ,California ,46200 ,85200 ,45500 ,61800 ,116000 ,158000 
+"California State University, Long Beach (CSULB) ",California ,45100 ,84700 ,47400 ,62500 ,113000 ,154000 
+"California State University, East Bay (CSUEB) ",California ,49200 ,84300 ,46000 ,62400 ,115000 ,155000 
+"University of California, Santa Cruz (UCSC) ",California ,44700 ,84100 ,46100 ,62000 ,121000 ,165000 
+"California State University, Sacramento (CSUS) ",California ,47800 ,82400 ,42900 ,59600 ,111000 ,154000 
+"University of California, Riverside (UCR) ",California ,46800 ,81300 ,37200 ,59900 ,109000 ,134000 
+"California State University, Northridge (CSUN) ",California ,45500 ,80400 ,44500 ,57800 ,108000 ,153000 
+"California State University, Dominguez Hills (CSUDH) ",California ,42700 ,72100 ,30800 ,47000 ,92200 ,132000 
+"California State University (CSU), Stanislaus ",California ,38000 ,71400 , ,50500 ,94100 , 
+Humboldt State University ,California ,42600 ,71300 ,36000 ,56300 ,94400 ,117000 
+Thomas Aquinas College ,California ,41500 ,67500 , ,44600 ,93100 , 
+Colorado School of Mines ,Western ,58100 ,106000 ,62200 ,87900 ,142000 ,201000 
+University of Colorado - Boulder (UCB) ,Western ,47100 ,97600 ,51600 ,69000 ,128000 ,187000 
+New Mexico Institute of Mining and Technology (New Mexico Tech) ,Western ,51000 ,93400 , ,67400 ,123000 , 
+Brigham Young University (BYU) ,Western ,49400 ,88600 ,50600 ,68500 ,119000 ,164000 
+University of Arizona ,Western ,47500 ,86100 ,44800 ,61700 ,117000 ,160000 
+University of Washington (UW) ,Western ,48800 ,85300 ,47000 ,59800 ,115000 ,149000 
+Washington State University (WSU) ,Western ,45300 ,84700 ,43600 ,59000 ,113000 ,162000 
+University of Colorado - Denver ,Western ,46100 ,84400 ,46400 ,58600 ,105000 ,144000 
+Arizona State University (ASU) ,Western ,47400 ,84100 ,44600 ,60700 ,114000 ,163000 
+Oregon State University (OSU) ,Western ,45100 ,83300 ,46900 ,64000 ,113000 ,146000 
+University of Utah ,Western ,45400 ,83200 ,43000 ,58400 ,116000 ,148000 
+"University of Nevada, Reno (UNR) ",Western ,46500 ,82900 ,41900 ,54600 ,113000 ,143000 
+Seattle University ,Western ,48300 ,82800 ,50600 ,62400 ,110000 ,150000 
+University of Idaho ,Western ,44900 ,82000 ,43000 ,56700 ,104000 ,142000 
+University of New Mexico (UNM) ,Western ,41600 ,81600 ,41800 ,59100 ,105000 ,141000 
+University of Puget Sound ,Western ,46600 ,81500 ,48900 ,60100 ,104000 ,137000 
+Colorado College (CC) ,Western ,38500 ,81400 , ,43000 ,148000 , 
+Reed College ,Western ,40500 ,81100 , ,67400 ,101000 , 
+Whitman College ,Western ,43500 ,80100 , ,64800 ,111000 , 
+New Mexico State University ,Western ,44300 ,79500 ,37400 ,53800 ,102000 ,131000 
+Colorado State University (CSU) ,Western ,44800 ,79000 ,43800 ,57100 ,112000 ,150000 
+University of Wyoming (UW) ,Western ,44500 ,78700 ,41500 ,54000 ,105000 ,145000 
+Utah State University ,Western ,43800 ,78700 ,41600 ,55400 ,101000 ,132000 
+University of Oregon ,Western ,42200 ,78400 ,38100 ,56200 ,117000 ,186000 
+Montana State University - Bozeman ,Western ,46600 ,77500 ,40200 ,58100 ,111000 ,151000 
+Gonzaga University ,Western ,44900 ,76000 ,47000 ,57400 ,103000 ,138000 
+University of Hawaii ,Western ,43800 ,76000 ,40400 ,56300 ,104000 ,128000 
+Western Washington University ,Western ,42700 ,75400 ,41300 ,56700 ,99200 ,119000 
+Regis University ,Western ,48300 ,73800 ,41000 ,55500 ,94800 ,117000 
+Idaho State University ,Western ,44900 ,73400 ,35400 ,49600 ,101000 ,143000 
+"University of Alaska, Anchorage ",Western ,45900 ,72600 ,39800 ,56600 ,99300 ,137000 
+Lewis & Clark College ,Western ,38900 ,72600 ,38200 ,53400 ,104000 ,140000 
+University of Montana ,Western ,37300 ,71900 ,37000 ,51500 ,96400 ,138000 
+"University of Nevada, Las Vegas (UNLV) ",Western ,45200 ,71600 ,39000 ,52400 ,100000 ,128000 
+Portland State University (PSU) ,Western ,42600 ,70900 ,40700 ,52300 ,94400 ,123000 
+Eastern Washington University ,Western ,38600 ,70900 ,36000 ,50500 ,93100 ,117000 
+Fort Lewis College ,Western ,42000 ,69800 , ,55000 ,94000 , 
+Boise State University (BSU) ,Western ,40800 ,69500 ,37400 ,48700 ,87500 ,110000 
+Utah Valley State College ,Western ,42400 ,67100 , ,44100 ,84900 , 
+Evergreen State College ,Western ,39500 ,63900 ,38800 ,47200 ,91600 ,120000 
+Southern Utah University ,Western ,41900 ,56500 , ,39700 ,78400 , 
+Montana State University - Billings ,Western ,37900 ,50600 , ,31800 ,78500 , 
+University of Notre Dame ,Midwestern ,56300 ,116000 ,66400 ,85100 ,163000 ,235000 
+University Of Chicago ,Midwestern ,53400 ,113000 ,62200 ,83300 ,174000 ,255000 
+Carleton College ,Midwestern ,47500 ,103000 , ,69400 ,141000 , 
+Illinois Institute of Technology (IIT) ,Midwestern ,56000 ,97800 ,56100 ,77400 ,121000 ,165000 
+Case Western Reserve University ,Midwestern ,56200 ,96500 ,54900 ,76500 ,123000 ,168000 
+University of Illinois at Urbana-Champaign (UIUC) ,Midwestern ,52900 ,96100 ,48200 ,68900 ,132000 ,177000 
+Northwestern University ,Midwestern ,52700 ,95900 ,51900 ,69100 ,144000 ,205000 
+University of Missouri - Rolla (UMR) ,Midwestern ,57100 ,95800 ,67600 ,80400 ,122000 ,166000 
+South Dakota School of Mines & Technology ,Midwestern ,55800 ,93400 ,71500 ,81900 ,122000 ,147000 
+University of Michigan ,Midwestern ,52700 ,93000 ,50900 ,69400 ,128000 ,182000 
+Purdue University ,Midwestern ,51400 ,90500 ,49900 ,67400 ,121000 ,168000 
+Marquette University ,Midwestern ,48500 ,88400 ,49500 ,67400 ,121000 ,184000 
+DePauw University ,Midwestern ,41400 ,88200 ,49500 ,57400 ,133000 ,185000 
+University of Wisconsin (UW) - Madison ,Midwestern ,48900 ,87800 ,47400 ,62400 ,118000 ,170000 
+Bradley University ,Midwestern ,47000 ,87300 ,45900 ,64900 ,113000 ,151000 
+St. Olaf College ,Midwestern ,45300 ,86200 ,41300 ,61000 ,120000 ,185000 
+Michigan State University (MSU) ,Midwestern ,46300 ,85300 ,44200 ,61500 ,119000 ,170000 
+DePaul University ,Midwestern ,46400 ,84800 ,50300 ,63900 ,115000 ,160000 
+Iowa State University ,Midwestern ,45400 ,84600 ,44400 ,60000 ,109000 ,147000 
+University of Minnesota ,Midwestern ,46200 ,84200 ,49000 ,63200 ,112000 ,148000 
+"Indiana University (IU), Bloomington ",Midwestern ,46300 ,84000 ,43600 ,60400 ,119000 ,178000 
+University of Iowa (UI) ,Midwestern ,44700 ,83900 ,43300 ,61100 ,116000 ,163000 
+Ohio State University (OSU) ,Midwestern ,44900 ,83700 ,45500 ,60700 ,116000 ,162000 
+Denison University ,Midwestern ,42000 ,83500 , ,62100 ,122000 , 
+University of Illinois at Chicago ,Midwestern ,47500 ,81700 ,44700 ,58800 ,110000 ,146000 
+Oberlin College ,Midwestern ,43400 ,81600 , ,46400 ,128000 , 
+University of Kansas ,Midwestern ,42400 ,81600 ,44800 ,57200 ,115000 ,156000 
+University of Missouri - Columbia ,Midwestern ,41700 ,81000 ,43500 ,57100 ,111000 ,156000 
+University of Nebraska ,Midwestern ,45700 ,80900 ,42200 ,56600 ,113000 ,156000 
+Northern Illinois University (NIU) ,Midwestern ,43600 ,80800 ,43900 ,60200 ,111000 ,161000 
+Gustavus Adolphus College ,Midwestern ,44500 ,80600 , ,49300 ,101000 , 
+University of North Dakota ,Midwestern ,44000 ,80600 ,43400 ,56400 ,111000 ,157000 
+Kansas State University (KSU) ,Midwestern ,43300 ,79000 ,37200 ,54100 ,106000 ,138000 
+University of Wisconsin (UW) - Platteville ,Midwestern ,45800 ,78500 ,48400 ,61200 ,100000 ,139000 
+Wittenberg University ,Midwestern ,39200 ,78200 , ,54100 ,131000 , 
+North Dakota State University (NDSU) ,Midwestern ,45100 ,77800 ,39000 ,55800 ,100000 ,123000 
+Grinnell College ,Midwestern ,42600 ,76600 , ,65100 ,116000 , 
+Wayne State University ,Midwestern ,42800 ,76100 ,40100 ,56200 ,101000 ,139000 
+University of Toledo ,Midwestern ,43100 ,75900 ,40100 ,54100 ,100000 ,133000 
+University of Wisconsin (UW) - Whitewater ,Midwestern ,40800 ,75500 ,38200 ,53500 ,99300 ,150000 
+Minnesota State University - Mankato ,Midwestern ,43300 ,74700 ,39500 ,53800 ,95700 ,140000 
+University of Wisconsin (UW) - Milwaukee ,Midwestern ,42300 ,74600 ,40600 ,54000 ,93700 ,123000 
+Western Michigan University (WMU) ,Midwestern ,42300 ,73800 ,40100 ,52500 ,103000 ,135000 
+South Dakota State University (SDSU) ,Midwestern ,41100 ,73500 ,34100 ,49900 ,99400 ,129000 
+Ohio University ,Midwestern ,42200 ,73400 ,36600 ,52800 ,106000 ,150000 
+Illinois State University ,Midwestern ,42000 ,73400 ,39100 ,55200 ,105000 ,142000 
+Cleveland State University ,Midwestern ,43500 ,73100 ,39500 ,51600 ,97000 ,137000 
+University of Nebraska at Omaha ,Midwestern ,41500 ,72600 ,39500 ,54400 ,97400 ,126000 
+Southern Illinois University Carbondale ,Midwestern ,43000 ,72500 ,38300 ,51300 ,99300 ,139000 
+Eastern Michigan University ,Midwestern ,40300 ,72100 ,37900 ,52800 ,95400 ,135000 
+Bowling Green State University ,Midwestern ,39800 ,72100 ,38200 ,51800 ,101000 ,146000 
+St. Cloud State University ,Midwestern ,41800 ,71400 ,38700 ,49400 ,101000 ,126000 
+University of Wisconsin (UW) - Parkside ,Midwestern ,40700 ,71400 ,40900 ,53100 ,84900 ,119000 
+University of Akron ,Midwestern ,41100 ,70300 ,40600 ,53300 ,95200 ,127000 
+Missouri State University (MSU) ,Midwestern ,36100 ,69500 ,33300 ,46900 ,102000 ,134000 
+University of Wisconsin (UW) - La Crosse ,Midwestern ,42200 ,69300 ,37500 ,47200 ,93100 ,133000 
+University of Wisconsin (UW) - Stout ,Midwestern ,43600 ,68300 ,40900 ,50600 ,91600 ,136000 
+Robert Morris College (RMC) ,Midwestern ,38500 ,68200 ,37300 ,47100 ,95000 ,128000 
+University of Missouri - St. Louis (UMSL) ,Midwestern ,41400 ,67100 ,36800 ,49600 ,97600 ,144000 
+University of Wisconsin (UW) - Oshkosh ,Midwestern ,39300 ,66400 ,37700 ,49700 ,90100 ,138000 
+University of Missouri - Kansas City (UMKC) ,Midwestern ,38900 ,65800 ,36300 ,48100 ,95800 ,124000 
+University of Wisconsin (UW) - Eau Claire ,Midwestern ,41400 ,64800 ,35000 ,47300 ,93100 ,125000 
+Ball State University (BSU) ,Midwestern ,39100 ,64500 ,35500 ,48200 ,89300 ,128000 
+Park University ,Midwestern ,44300 ,64300 ,37200 ,45600 ,86400 ,113000 
+University of Wisconsin (UW) - Stevens Point ,Midwestern ,39800 ,64000 ,38400 ,45100 ,95400 ,128000 
+Kent State University ,Midwestern ,38700 ,62600 ,36100 ,45800 ,87000 ,124000 
+University of Wisconsin (UW) - Green Bay ,Midwestern ,35800 ,60600 ,35500 ,46800 ,81800 ,102000 
+Indiana Wesleyan University (IWU) ,Midwestern ,39800 ,58500 ,39600 ,47800 ,78600 ,93400 
+Pittsburg State University ,Midwestern ,40400 ,58200 ,25600 ,46000 ,84600 ,117000 
+Davenport University ,Midwestern ,39700 ,46600 ,31600 ,38100 ,65600 ,85700 
+Black Hills State University ,Midwestern ,35300 ,43900 , ,32200 ,60900 , 
+Rice University ,Southern ,64000 ,110000 ,55900 ,82100 ,141000 ,216000 
+Georgetown University ,Southern ,55000 ,110000 ,60300 ,85800 ,174000 ,248000 
+Duke University ,Southern ,58900 ,106000 ,56000 ,77400 ,149000 ,218000 
+Georgia Institute of Technology ,Southern ,58300 ,106000 ,67200 ,85200 ,137000 ,183000 
+Washington and Lee University ,Southern ,53600 ,104000 , ,82800 ,146000 , 
+Vanderbilt University ,Southern ,51200 ,104000 ,49900 ,68100 ,147000 ,222000 
+Davidson College ,Southern ,46100 ,104000 , ,70500 ,146000 , 
+University of Virginia (UVA) ,Southern ,52700 ,103000 ,52200 ,71800 ,146000 ,215000 
+George Washington University (GWU) ,Southern ,47000 ,97900 ,48400 ,69600 ,132000 ,194000 
+Texas A&M University ,Southern ,49700 ,96100 ,51100 ,71300 ,131000 ,171000 
+Tulane University ,Southern ,49100 ,95800 ,46500 ,64400 ,134000 ,185000 
+Virginia Polytechnic Institute and State University (Virginia Tech) ,Southern ,53500 ,95400 ,50600 ,71400 ,124000 ,163000 
+"University of Maryland, College Park ",Southern ,52000 ,95000 ,50400 ,68300 ,126000 ,166000 
+University of Richmond ,Southern ,48600 ,94600 ,44500 ,59400 ,151000 ,211000 
+University of Texas (UT) - Austin ,Southern ,49700 ,93900 ,50100 ,67400 ,129000 ,188000 
+Emory University ,Southern ,52000 ,91600 ,52500 ,63300 ,128000 ,192000 
+"American University, Washington D.C. ",Southern ,45300 ,90800 ,45200 ,62400 ,134000 ,169000 
+University of Tulsa ,Southern ,42400 ,88700 ,42300 ,60300 ,120000 ,197000 
+Baylor University ,Southern ,48300 ,88600 ,46300 ,60700 ,130000 ,200000 
+University of Florida (UF) ,Southern ,47100 ,87900 ,45400 ,62900 ,120000 ,172000 
+Louisiana State University (LSU) ,Southern ,46900 ,87800 ,43700 ,61300 ,120000 ,165000 
+George Mason University ,Southern ,47800 ,86900 ,51300 ,67200 ,114000 ,150000 
+Clemson University ,Southern ,48400 ,86000 ,50500 ,61800 ,111000 ,150000 
+University of Georgia (UGA) ,Southern ,44100 ,86000 ,43100 ,57800 ,118000 ,164000 
+Auburn University ,Southern ,45400 ,84700 ,45400 ,62700 ,109000 ,145000 
+University of Delaware ,Southern ,45900 ,84500 ,44500 ,64000 ,119000 ,165000 
+Randolph-Macon College ,Southern ,42600 ,83600 , ,54100 ,123000 , 
+North Carolina State University (NCSU) ,Southern ,47200 ,83300 ,49200 ,64800 ,112000 ,153000 
+University of Oklahoma ,Southern ,44700 ,82900 ,41200 ,60300 ,114000 ,167000 
+University of Arkansas ,Southern ,44100 ,82800 ,43200 ,60700 ,113000 ,160000 
+University of Alabama at Huntsville (UAH) ,Southern ,43100 ,82700 ,46100 ,67800 ,106000 ,132000 
+Howard University ,Southern ,46900 ,81800 ,43300 ,60000 ,109000 ,138000 
+University of North Carolina at Chapel Hill (UNCH) ,Southern ,42900 ,81500 ,43400 ,57500 ,117000 ,155000 
+"University of Alabama, Tuscaloosa ",Southern ,41300 ,81400 ,40100 ,56500 ,117000 ,161000 
+University of Texas at Arlington (UTA) ,Southern ,45400 ,80800 ,46400 ,61200 ,106000 ,138000 
+Oklahoma State University ,Southern ,42800 ,80700 ,40100 ,56500 ,114000 ,151000 
+Tennessee Technological University ,Southern ,46200 ,80000 ,42100 ,62600 ,99500 ,121000 
+University of Houston (UH) ,Southern ,46000 ,79900 ,42000 ,56200 ,106000 ,141000 
+University of Mississippi ,Southern ,41400 ,79700 ,40400 ,53500 ,108000 ,186000 
+Lamar University ,Southern ,46500 ,79400 ,38700 ,51600 ,114000 ,158000 
+Mississippi State University (MSU) ,Southern ,44500 ,79300 ,43300 ,58800 ,108000 ,151000 
+University of Kentucky (UK) ,Southern ,42800 ,78300 ,43000 ,57300 ,107000 ,149000 
+Texas Christian University (TCU) ,Southern ,45100 ,78100 ,42600 ,56600 ,122000 ,183000 
+West Virginia University (WVU) ,Southern ,43100 ,78100 ,39700 ,55700 ,106000 ,141000 
+University of Maryland Baltimore County (UMBC) ,Southern ,47000 ,77800 ,46900 ,59100 ,105000 ,130000 
+University of Louisiana (UL) at Lafayette ,Southern ,41100 ,76300 ,42000 ,54500 ,107000 ,163000 
+Florida International University (FIU) ,Southern ,43200 ,75500 ,40500 ,55800 ,98200 ,136000 
+University of Tennessee ,Southern ,43800 ,74600 ,41900 ,53200 ,106000 ,153000 
+University of Arkansas - Monticello (UAM) ,Southern ,39200 ,74500 , ,46100 ,110000 , 
+University of North Carolina at Charlotte (UNCC) ,Southern ,43100 ,74000 ,38200 ,53200 ,99500 ,133000 
+Georgia State University ,Southern ,41800 ,74000 ,43000 ,55300 ,99900 ,145000 
+LeTourneau University ,Southern ,49500 ,73800 ,41200 ,52700 ,95200 ,126000 
+Florida State University (FSU) ,Southern ,42100 ,73000 ,39600 ,52800 ,107000 ,156000 
+University of Texas at El Paso (UTEP) ,Southern ,43400 ,72100 ,37700 ,50400 ,99500 ,133000 
+University of Central Florida (UCF) ,Southern ,42600 ,71700 ,39500 ,51500 ,98400 ,125000 
+University of South Carolina ,Southern ,40000 ,71700 ,36300 ,49900 ,98400 ,131000 
+Florida Atlantic University (FAU) ,Southern ,42600 ,71100 ,40700 ,53000 ,99500 ,137000 
+University of South Florida (USF) ,Southern ,41100 ,71100 ,39600 ,51500 ,98100 ,131000 
+University of Texas at San Antonio (UTSA) ,Southern ,42500 ,70700 ,39100 ,49800 ,92700 ,121000 
+University of Alabama at Birmingham (UAB) ,Southern ,39200 ,70100 ,43000 ,53400 ,91400 ,125000 
+University of Memphis (U of M) ,Southern ,41400 ,69700 ,36100 ,49100 ,93500 ,127000 
+Appalachian State University ,Southern ,40400 ,69100 ,37200 ,50400 ,90800 ,115000 
+Virginia Commonwealth University (VCU) ,Southern ,42000 ,68400 ,37400 ,51900 ,100000 ,123000 
+East Carolina University (ECU) ,Southern ,40200 ,67500 ,38400 ,52000 ,98700 ,151000 
+Western Carolina University ,Southern ,36900 ,66600 ,39000 ,49500 ,94400 ,133000 
+Jacksonville University ,Southern ,46700 ,66200 ,36700 ,47200 ,88500 ,121000 
+University of North Carolina at Wilmington (UNCW) ,Southern ,37500 ,64400 ,32100 ,46600 ,97100 ,129000 
+Oklahoma City University ,Southern ,40000 ,64300 , ,45400 ,80600 , 
+Arkansas State University (ASU) ,Southern ,38700 ,63300 ,33600 ,45300 ,83900 ,118000 
+Tarleton State University (TSU) ,Southern ,40800 ,62400 ,32100 ,47400 ,80400 ,126000 
+Morehead State University ,Southern ,34800 ,60600 ,34300 ,46500 ,72000 ,91300 
+Mississippi College ,Southern ,35400 ,60400 , ,43900 ,80400 , 
+Dallas Baptist University ,Southern ,39400 ,60200 ,38500 ,50300 ,81800 ,98100 
+Austin Peay State University ,Southern ,37700 ,59200 ,32200 ,40500 ,73900 ,96200 
+Saint Leo University ,Southern ,40900 ,57800 ,34400 ,41800 ,80600 ,113000 
+Tusculum College ,Southern ,36900 ,55500 ,36200 ,43000 ,87300 ,124000 
+Virginia Wesleyan College (VWC) ,Southern ,34600 ,54900 , ,37100 ,88900 , 
+"Lee University (Cleveland, TN) ",Southern ,34500 ,53900 , ,44500 ,76800 , 
+Florida Metropolitan University (FMU) ,Southern ,36600 ,51000 ,32800 ,36800 ,70400 ,102000 
+Dartmouth College ,Northeastern ,58000 ,134000 ,63100 ,90200 ,234000 ,321000 
+Princeton University ,Northeastern ,66500 ,131000 ,68900 ,100000 ,190000 ,261000 
+Massachusetts Institute of Technology (MIT) ,Northeastern ,72200 ,126000 ,76800 ,99200 ,168000 ,220000 
+Yale University ,Northeastern ,59100 ,126000 ,58000 ,80600 ,198000 ,326000 
+Harvard University ,Northeastern ,63400 ,124000 ,54800 ,86200 ,179000 ,288000 
+University of Pennsylvania ,Northeastern ,60900 ,120000 ,55900 ,79200 ,192000 ,282000 
+"Polytechnic University of New York, Brooklyn ",Northeastern ,62400 ,114000 ,66800 ,94300 ,143000 ,190000 
+Cooper Union ,Northeastern ,62200 ,114000 , ,80200 ,142000 , 
+Worcester Polytechnic Institute (WPI) ,Northeastern ,61000 ,114000 ,80000 ,91200 ,137000 ,180000 
+Carnegie Mellon University (CMU) ,Northeastern ,61800 ,111000 ,63300 ,80100 ,150000 ,209000 
+Rensselaer Polytechnic Institute (RPI) ,Northeastern ,61100 ,110000 ,71600 ,85500 ,140000 ,182000 
+Cornell University ,Northeastern ,60300 ,110000 ,56800 ,79800 ,160000 ,210000 
+Bucknell University ,Northeastern ,54100 ,110000 ,62800 ,80600 ,156000 ,251000 
+Brown University ,Northeastern ,56200 ,109000 ,55400 ,74400 ,159000 ,228000 
+Colgate University ,Northeastern ,52800 ,108000 ,60000 ,76700 ,167000 ,265000 
+Columbia University ,Northeastern ,59400 ,107000 ,50300 ,71900 ,161000 ,241000 
+Amherst College ,Northeastern ,54500 ,107000 , ,84900 ,162000 , 
+Lafayette College ,Northeastern ,53900 ,107000 ,70600 ,79300 ,144000 ,204000 
+Bowdoin College ,Northeastern ,48100 ,107000 , ,74600 ,146000 , 
+College of the Holy Cross ,Northeastern ,50200 ,106000 , ,65600 ,143000 , 
+Stevens Institute of Technology ,Northeastern ,60600 ,105000 ,68700 ,81900 ,138000 ,185000 
+Lehigh University ,Northeastern ,59200 ,105000 ,69500 ,85000 ,160000 ,229000 
+Swarthmore College ,Northeastern ,49700 ,104000 , ,67200 ,167000 , 
+Boston College ,Northeastern ,52700 ,103000 ,48900 ,70000 ,143000 ,195000 
+Williams College ,Northeastern ,51700 ,102000 , ,76400 ,143000 , 
+Villanova University ,Northeastern ,55800 ,101000 ,56800 ,76200 ,156000 ,226000 
+Fordham University ,Northeastern ,47800 ,99900 ,48600 ,65900 ,142000 ,198000 
+"Wesleyan University (Middletown, Connecticut) ",Northeastern ,46500 ,97900 ,42000 ,62500 ,126000 ,215000 
+Wentworth Institute of Technology ,Northeastern ,53000 ,96700 ,55200 ,74000 ,117000 ,153000 
+Bates College ,Northeastern ,47300 ,96500 , ,60700 ,162000 , 
+Binghamton University ,Northeastern ,53600 ,95900 ,50900 ,71200 ,146000 ,201000 
+Union College ,Northeastern ,47200 ,95800 ,48700 ,75200 ,135000 ,230000 
+New York University (NYU) ,Northeastern ,50300 ,95600 ,47500 ,65000 ,142000 ,216000 
+Vassar College ,Northeastern ,46000 ,94600 , ,60600 ,123000 , 
+Middlebury College ,Northeastern ,47700 ,94200 , ,69100 ,129000 , 
+Mount Holyoke College ,Northeastern ,42400 ,94200 , ,57100 ,131000 , 
+Boston University ,Northeastern ,49000 ,93900 ,48000 ,64900 ,130000 ,193000 
+Drexel University ,Northeastern ,53400 ,93500 ,54900 ,72500 ,122000 ,161000 
+"St. John's University, New York ",Northeastern ,48000 ,93400 ,48000 ,65400 ,124000 ,181000 
+Long Island University ,Northeastern ,47300 ,93200 ,46300 ,62100 ,122000 ,169000 
+Stony Brook University ,Northeastern ,49500 ,93000 ,47200 ,67100 ,129000 ,181000 
+Franklin and Marshall College ,Northeastern ,49100 ,92800 , ,55800 ,185000 , 
+Hofstra University ,Northeastern ,46800 ,92700 ,48900 ,67000 ,135000 ,189000 
+State University of New York (SUNY) at Albany ,Northeastern ,44500 ,92200 ,47000 ,63100 ,135000 ,209000 
+Rutgers University ,Northeastern ,50300 ,91800 ,48100 ,65100 ,128000 ,176000 
+Pratt Institute ,Northeastern ,43800 ,89900 ,48600 ,65400 ,123000 ,155000 
+Pace University ,Northeastern ,53200 ,89700 ,44200 ,65400 ,129000 ,187000 
+Seton Hall University ,Northeastern ,48900 ,89200 ,55700 ,70600 ,133000 ,195000 
+Rider University ,Northeastern ,43600 ,88900 ,47100 ,63100 ,127000 ,150000 
+University of Connecticut (UConn) ,Northeastern ,48000 ,88800 ,46100 ,66400 ,120000 ,162000 
+Providence College ,Northeastern ,48000 ,88600 ,42800 ,62900 ,138000 ,194000 
+University of Massachusetts (UMass) - Amherst ,Northeastern ,46600 ,88200 ,43100 ,61300 ,122000 ,168000 
+Ithaca College ,Northeastern ,42700 ,87400 ,50200 ,62400 ,128000 ,174000 
+University of Massachusetts (UMass) - Lowell ,Northeastern ,45400 ,86600 ,50900 ,65000 ,113000 ,158000 
+Northeastern University ,Northeastern ,50500 ,86400 ,47100 ,62700 ,117000 ,159000 
+Syracuse University ,Northeastern ,45700 ,85900 ,46400 ,59400 ,119000 ,178000 
+Colby College ,Northeastern ,46400 ,85800 , ,63500 ,129000 , 
+Gettysburg College ,Northeastern ,44700 ,85800 , ,66300 ,132000 , 
+Pennsylvania State University (PSU) ,Northeastern ,49900 ,85700 ,46300 ,62000 ,117000 ,160000 
+University of Rhode Island (URI) ,Northeastern ,43900 ,85300 ,45400 ,60100 ,112000 ,157000 
+Siena College ,Northeastern ,45500 ,85200 ,38700 ,58400 ,129000 ,189000 
+La Salle University (Philadelphia) ,Northeastern ,43400 ,84700 ,45300 ,57500 ,106000 ,151000 
+Rochester Institute of Technology (RIT) ,Northeastern ,48900 ,84600 ,45000 ,62100 ,112000 ,159000 
+Duquesne University ,Northeastern ,40700 ,84400 ,42600 ,59500 ,107000 ,131000 
+State University of New York (SUNY) at Farmingdale ,Northeastern ,47300 ,84200 ,50200 ,59800 ,110000 ,162000 
+Smith College ,Northeastern ,44000 ,83900 ,45100 ,59800 ,129000 ,184000 
+Hamilton College ,Northeastern ,49200 ,83700 , ,51900 ,123000 , 
+Wellesley College ,Northeastern ,42800 ,83500 , ,58600 ,125000 , 
+Widener University ,Northeastern ,52900 ,83400 ,42600 ,61400 ,106000 ,138000 
+University of New Haven ,Northeastern ,44400 ,82900 ,48500 ,66100 ,113000 ,157000 
+Dowling College ,Northeastern ,41100 ,82800 ,46500 ,60600 ,117000 ,142000 
+University of Vermont (UVM) ,Northeastern ,44800 ,82700 ,44700 ,58000 ,122000 ,194000 
+State University of New York (SUNY) at Buffalo ,Northeastern ,46200 ,81700 ,45900 ,61400 ,110000 ,147000 
+State University of New York (SUNY) at Geneseo ,Northeastern ,42300 ,81300 ,39300 ,47600 ,117000 ,173000 
+Fashion Institute of Technology ,Northeastern ,42800 ,81000 ,38800 ,60500 ,106000 ,138000 
+Philadelphia University ,Northeastern ,45100 ,80300 ,45800 ,61900 ,108000 ,141000 
+Ursinus College ,Northeastern ,42100 ,80000 ,35600 ,54300 ,100000 ,160000 
+Adelphi University ,Northeastern ,40600 ,79200 ,44200 ,54800 ,114000 ,160000 
+Juniata College ,Northeastern ,41800 ,78900 , ,67200 ,110000 , 
+Fairleigh Dickinson University ,Northeastern ,45700 ,78700 ,40200 ,56300 ,112000 ,171000 
+University of New Hampshire (UNH) ,Northeastern ,41800 ,78300 ,41700 ,56400 ,114000 ,147000 
+University of Massachusetts (UMass) - Boston ,Northeastern ,45600 ,78200 ,36300 ,53800 ,109000 ,151000 
+State University of New York (SUNY) at Oswego ,Northeastern ,38000 ,77800 ,40400 ,53000 ,115000 ,169000 
+University of Massachusetts (UMass) - Dartmouth ,Northeastern ,43200 ,77700 ,43300 ,56200 ,107000 ,132000 
+State University of New York (SUNY) at Oneonta ,Northeastern ,37500 ,76700 ,40000 ,54300 ,97700 ,155000 
+Quinnipiac University ,Northeastern ,43000 ,76500 ,47900 ,57400 ,117000 ,155000 
+State University of New York (SUNY) at Plattsburgh ,Northeastern ,40800 ,76200 ,38400 ,54100 ,105000 ,136000 
+Sacred Heart University ,Northeastern ,46000 ,75300 ,39700 ,54800 ,105000 ,150000 
+Skidmore College ,Northeastern ,41600 ,74600 , ,42800 ,147000 , 
+Moravian College ,Northeastern ,42500 ,74400 , ,56700 ,94900 , 
+Penn State - Harrisburg ,Northeastern ,45700 ,74000 ,44000 ,53100 ,104000 ,150000 
+Suffolk University ,Northeastern ,42100 ,74000 ,48700 ,57800 ,95100 ,145000 
+Fitchburg State College ,Northeastern ,42400 ,72600 ,43300 ,56100 ,99600 ,151000 
+Roger Williams University ,Northeastern ,42000 ,72300 ,39800 ,48500 ,102000 ,138000 
+University Of Maine ,Northeastern ,41200 ,72100 ,41700 ,55600 ,99300 ,141000 
+State University of New York (SUNY) at Potsdam ,Northeastern ,38000 ,70300 ,35100 ,51200 ,100000 ,179000 
+Niagara University ,Northeastern ,36900 ,69700 ,44000 ,57000 ,92000 ,128000 
+State University of New York (SUNY) at Fredonia ,Northeastern ,37800 ,66200 ,32800 ,44200 ,93300 ,181000 
+University of Southern Maine ,Northeastern ,39400 ,63600 ,40400 ,47900 ,85700 ,117000 
+Mercy College ,Northeastern ,43700 ,62600 ,35600 ,47300 ,99000 ,134000 

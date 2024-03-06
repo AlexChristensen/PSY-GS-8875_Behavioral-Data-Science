@@ -7,7 +7,6 @@ library(caret); library(ggplot2)
 library(ranger); library(ggpubr)
 library(rpart); library(rpart.plot)
 
-
 # Load data
 schizotypy <- read.csv("../../data/schizotypy/share_430n_interview.csv")
 
@@ -240,7 +239,7 @@ for(i in seq_along(trees)){
 # Combine results
 combined <- do.call(rbind.data.frame, results)
 combined$num.trees <- trees
-combined
+print(combined, digits = 4)
 
 # 250 trees has the best accuracy/kappa
 
