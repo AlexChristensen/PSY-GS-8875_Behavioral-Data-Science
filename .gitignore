@@ -27,8 +27,12 @@ data/dass_personality/*
 
 # Ignore keys
 # keys/*
-# keys/AHA-01_syllabus_ai_KEY.pdf
-# keys/AHA-02_gradient-descent_KEY.pdf
-# keys/AHA-03_generalizability_KEY.html
-# keys/AHA-04_regularization_KEY.pdf
-keys/AHA-06_*
+# keys/AHA-01_*.pdf
+# keys/AHA-02_*.pdf
+# keys/AHA-03_*.html
+# keys/AHA-04_*.pdf
+# AHA-05: Kaggle competition, no key
+# keys/AHA-06_*
+keys/AHA-07_*
+keys/AHA-08_*
+keys/AHA-09_*
