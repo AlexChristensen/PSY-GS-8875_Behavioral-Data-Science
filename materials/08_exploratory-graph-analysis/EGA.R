@@ -55,7 +55,7 @@ semPaths(
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 # Compute correlations
-correlations <- auto.correlate(data)
+correlations <- auto.correlate(data, verbose = TRUE)
 
 # Visualize
 EGAnet:::ggheatmap(correlations, type = "full") +
@@ -168,13 +168,15 @@ class(network_class) <- "EGA"
 # Creates pseudo-EGA class object for easier plotting
 
 # Plot
-plot(network_class) + theme(legend.position = "none")
+plot(
+  network_class, title = "BFI network"
+) + theme(legend.position = "none")
 
 # Visualize network heatmap
 EGAnet:::ggheatmap(bfi_network, type = "full") +
   geom_tile(color = "grey") +
   scale_fill_gradient2(
-    low = "#CD533B", mid = "#EAEBED",
+    low = "#CD533B", mid = "white",
     high = "#588B8B", limits = c(-1, 1),
     guide = guide_colorbar(
       frame.colour = NA,
