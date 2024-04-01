@@ -14,6 +14,7 @@
 # Ignore future data
 # data/bipolar_depression/*
 data/dass_personality/*
+data/ipip/*
 # data/kaggle/*
 # data/ncds will not be released on GitHub due to sharing restrictions
 # data/sapa.RData
@@ -33,6 +34,6 @@ data/dass_personality/*
 # keys/AHA-04_*.pdf
 # AHA-05: Kaggle competition, no key
 # keys/AHA-06_*
-keys/AHA-07_*
+# keys/AHA-07_*
 keys/AHA-08_*
 keys/AHA-09_*
