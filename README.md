@@ -38,23 +38,75 @@ Week 1: Introduction and Retrieval-augmented Generation
 
 Week 2: Regression and Classification (with gradient descent)
 
++ (linear) regression
+
++ classification (logistic regression)
+
++ gradient descent
+
 Week 3: Generalizability
+
++ data splitting (training/testing)
+
++ bootstrap
+
++ (k-folds) cross-validation
 
 Week 4: Ridge and LASSO Regularization
 
-Week 5: (Artificial) Neural Networks
++ ridge ($\ell_2$-norm) regression
 
-Week 6: Trees and Forests
++ lasso ($\ell_1$-norm) regression
 
-Week 7: $k$-means and Hierarchical Clustering
+Week 5-6: (Artificial) Neural Networks
 
-Week 8: Psychometric Networks and Exploratory Graph Analysis
++ artificial neural networks
 
-Week 9: Robustness of Exploratory Graph Analysis
++ activation functions
 
-Week 10-11: Dynamic Psychometric Networks
++ backpropagation
 
-Week 12-13: Natural Language Processing with Transformers
++ training tips and tricks
+
+Week 7-8: Trees and Forests
+
++ classification and regression trees (CART)
+
++ bootstrap aggregation (bagging)
+
++ random forests
+
+Week 9-10: $k$-means and Hierarchical Clustering
+
++ distances
+
++ $k$-means/mediods
+
++ hierarchical clustering
+
+Week 11-12: Exploratory Graph Analysis (EGA)
+
++ (psychometric) networks 
+
++ network estimation
+
++ community detection
+
++ exploratory graph analysis
+
++ unidimensionality
+
+Week 12-13: EGA Framework
+
++ bootstrap EGA
+
++ local dependence detection (Unique Variable Analysis)
+
++ (network) loadings and scores
+
++ (metric) invariance
+
++ hierarchical EGA
 
 Week 14: Final Project
 
